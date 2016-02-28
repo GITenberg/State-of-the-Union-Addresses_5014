@@ -1,0 +1,25 @@
+_repo: State-of-the-Union-Addresses_5014
+creator:
+  author:
+    agent_name: Monroe, James
+    alias: United States President (1817-1825)
+    birthdate: 1758
+    deathdate: 1831
+    gutenberg_agent_id: '1640'
+    url: http://www.gutenberg.org/2009/agents/1640
+    wikipedia: http://en.wikipedia.org/wiki/James_Monroe
+description: ''
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5014'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Politics and government -- Sources'
+- !lcsh 'Presidents -- United States -- Messages'
+- !lcc 'J'
+title: State of the Union Addresses
+url: http://www.gutenberg.org/ebooks/5014
